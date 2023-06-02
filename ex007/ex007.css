@@ -1,0 +1,97 @@
+
+body{
+    background-color: violet;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center ;
+}
+.geral{
+    width: 600px;
+    height: 250px;
+    background-color: white;
+    color: violet;
+    border-radius: 10px 10px 10px 10px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    padding: 10px;
+    color: aliceblue;
+    background-color:violet;
+    border: purple;
+}
+.time{
+   background-color: rgb(255, 255, 255);
+    width: 80px;
+    height: 80px;
+    font-size: 28px; 
+}
+
+.x{
+    background-color: rgb(255, 255, 255);
+    width: 80px;
+    height: 80px;
+    font-size: 35px; 
+    text-align: center;
+}
+.pot2{
+    font-size: 35px;   
+}
+.div-placar {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .placar {
+    font-size: 40px;
+    text-shadow: 2px 1px 4px black;
+  
+  }
+  
+  #x {
+    font-size: 60px;
+    color: rgb(234, 0, 255);
+    text-shadow: 2px 1px 4px black;
+  }
+  
+  .nome-time {
+    background-color: rgb(89, 27, 97);
+    color: white;
+    font-weight: bold;
+  }
+  
+  .custom-btn {
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
+      7px 7px 20px 0px rgba(0, 0, 0, .1),
+      4px 4px 5px 0px rgba(0, 0, 0, .1);
+    outline: none;
+  }
+  
+  /* 1 */
+  .btn-1 {
+    background: rgb(187, 0, 255);
+    background: purple;
+    border: none;
+  }
+  
+  .btn-1:hover {
+    background: rgb(187, 0, 255);
+    background: purple ;
+  }
+
+  .div {
+    color: white;
+  }

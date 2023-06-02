@@ -1,0 +1,25 @@
+
+body{
+    background-color:orangered;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    color: purple;
+    
+}
+div{
+    color: purple;
+    background-color:orchid;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px aquamarine;
+    padding: 5px;
+    text-align: center;
+    width: 750px;
+    margin: 0 auto;
+}
+button{
+    padding: 10px;
+    color: white;
+    background-color:purple;
+    border: rgb(255, 0, 0);
+}
